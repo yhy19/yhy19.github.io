@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Huayi Yang"
 title_separator          : "-"
 name                     : &name "Huayi Yang"
-description              : &description "CS Master Student at BUAA\n(yanghy#buaa.edu.cn)"
+description              : &description "CS Master Student at BUAA(yanghy#buaa.edu.cn)"
 url                      : https://yhy19.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Huayi Yang"
   avatar           : "profile.png"
-  bio              : "CS Master student in BUAA."
+  bio              : "CS Master Student at BUAA\n<b>(yanghy#buaa.edu.cn)</b>"
   location         : "Beijing."
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
