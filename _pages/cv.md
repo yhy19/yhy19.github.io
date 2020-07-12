@@ -9,51 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+EDUCATION
+------
+* Beihang University, Beijing, China
+  *	M.S. in Computer Engineering, From Sep. 2019 to Jan.2022(Expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Tianjin University of Science & Technology, Tianjin, China
+  *	B.S. in Computer Science, From Sep. 2014 to Jul. 2018
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+EXPERIENCE
+------
+* Founder & Manager, Matrix Studio, TUST, Tianjin, China                   Mar. 2016 – Sep. 2017
+  *	Created a computer software development studio, which mainly conducts Java back-end development, Web front-end development, Android software development, and deep learning related algorithm research.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Android Software Engineer Intern, RihuiSoft.com, Tianjin, China          Jul. 2015 – Sep. 2015
+  *	Developed an app that can control home appliances such as air conditioners, air purifiers, etc.
+
+RESEARCH PROJECTS
+------
+*	Large-scale Multi-label Technology Text Classification Algorithm
+*	Comic Dialog OCR Recognition, Translation and Backfilling Algorithm
+*	Pedestrian Recognition Algorithm Based on Convolutional Neural Network
+
+HONORS AND AWARDS
+------
+*	Academic Scholarship of Beihang University, 2019
+*	National Third Prize in the Software Category of the 8th Blue Bridge Cup Competition, 2017
+*	National Inspirational Scholarship, 2015
