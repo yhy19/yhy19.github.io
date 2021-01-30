@@ -22,6 +22,8 @@ EDUCATION
 
 PUBLICATIONS
 ------
+* Ting Jiang, Deqing Wang, Leilei Sun, **Huayi Yang**, Zhengyang zhao, Fuzhen zhuang. LightXML: Transformer with Dynamic Negative Sampling for High-Performance Extreme Multi-label Text Classification[J]. arXiv preprint arXiv:2101.03305, 2021. (**AAAI2021 Accepted**)
+
 *	Jianzheng Liu, **Huayi Yang**. Video playback attack detection method based on flickering light(Chinese). Computer Programming Skills and Maintenance, 2016 (07): 5-7 + 11.
 
 *	Chaofan Yang, Siyang Zhang, Peng Chen, **Huayi Yang**. Analysis of Campus Navigation System Based on Android Platform(Chinese). Wireless Internet Technology, 2016 (02): 21-22.
